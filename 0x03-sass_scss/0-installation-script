@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Created the directory  0x03-sass_scss in alx-intermediate-frontend repo. Checked the version of npm I have to confirm if I have npm in my machine. Installed SASS using the command npm install sass. I used the command because it automatically installs the latest version of sass.
+=======
+Created the directory  0x03-sass_scss in alx-intermediate-frontend repo. Checked the version of npm I have to confirm if I have npm in my machine. Installed SASS using the command npm install sass. I used the command because it automatically installs the latest version of sass.
+>>>>>>> 77b36c72d4f44dc4600e9a6ac88da91851e7e416
